@@ -27,11 +27,12 @@ Belgium
 
 ### Getting to the Chateau
 
+### Trains
 [Trains](https://www.belgiantrain.be/en) are cheaper and more reliable than in the UK. No need to book in advance.
 
-From the Louvain-La-Neuve train station to the Chateau is a 35 minute walk.
+From the Louvain-La-Neuve train station to the Chateau might is a 35 minute walk.
 
-### Taxi companies
+#### Taxi companies
 TODO.
 Uber
 
@@ -45,5 +46,6 @@ Uber
 * Brussels is a short train ride away
 ![[pasted-image-20261024210854.png]]
 * [Namur](https://www.namurtourisme.be/en/) is a medieval city with an interesting citadel
+* [Villers Abbey](https://www.villers.be/en) to visit an old ruin, or skip straight to the beer
 ### Further afield
 * [Leuven](https://www.visitleuven.be/en), [Brugge](https://www.visitbruges.be/en) and [Gent](https://visit.gent.be/en) are a train ride away and well worth the trip
