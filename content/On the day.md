@@ -1,2 +1,2 @@
 
-Details of the day to be added
+Details of the day to be added 
