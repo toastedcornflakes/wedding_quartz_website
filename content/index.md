@@ -1,6 +1,9 @@
 ---
 title: Eilish and Louis wedding
 ---
+## TODO: liens en bleu pour que ça soit plus clair
+## TODO photo Eilish Louis Api
+
 We're incredibly happy to be sharing this day with you.
 
 ## When
@@ -15,25 +18,34 @@ The address of the day:
 > Chemin de Profondval, 2 <br>
 1490 Court-Saint-Etienne<br>
 Belgium
-<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=4.144592285156251%2C50.366488762738264%2C5.078430175781251%2C50.941123218673084&amp;layer=mapnik&amp;marker=50.65468471250644%2C4.61151123046875" style="border: 1px solid black"></iframe><br/><small><a href="https://www.openstreetmap.org/?mlat=50.6547&amp;mlon=4.6115#map=10/50.6547/4.6115">View Larger Map</a></small>
 
-### ⚠️ Note the wedding is near *Louvain-la-Neuve*, which is NOT  *Louvain*  
+(Post codes in Belgium are NOT precise at all, you need the whole address)
 
-### Getting to Belgium
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed?bbox=4.144592285156251%2C50.366488762738264%2C5.078430175781251%2C50.941123218673084&amp;layer=mapnik&amp;marker=50.65468471250644%2C4.61151123046875" style="border: 1px solid black"></iframe><br/>
+
+[View on Google Map](https://maps.app.goo.gl/GKhirPko3nwdws6BA) 
+
+### ⚠️ Note the wedding is near *Louvain-la-Neuve*, which is NOT  *Louvain/Leuven* 
+
+## Getting to Belgium
 * [Eurostar](https://www.eurostar.com/) from London to Brussels. Book well in advance for a good deal.
 * Nearby airports:
 	* Brussels Airport (Zaventem)
 	* Brussels South Charleroi Airport (not in Brussels, harder to get to the location)
 
-### Getting to the Chateau
+## Getting to the venue
 
 ### Trains
-[Trains](https://www.belgiantrain.be/en) are cheaper and more reliable than in the UK. No need to book in advance.
+[Trains](https://www.belgiantrain.be/en) are cheaper and more reliable than in the UK. No need to book in advance. They stop running quite early, so you probably can not quite 
 
 From the Louvain-La-Neuve train station to the Chateau might is a 35 minute walk.
+If you're taking a taxi, the Ottignies station might be easier to get a taxi.
+
+## Buses
+There are some [buses](www.letec.be/en) in the area, but not very frequent.
 
 #### Taxi companies
-TODO.
+[Taxi Broeck](https://taxi-ottignies-lln.be/) - [+32471438499](tel:+32471438499)
 Uber
 
 ## Hotels
