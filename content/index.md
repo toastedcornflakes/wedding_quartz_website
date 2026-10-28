@@ -1,7 +1,6 @@
 ---
 title: Eilish and Louis wedding
 ---
-## TODO: liens en bleu pour que ça soit plus clair
 ## TODO photo Eilish Louis Api
 
 We're incredibly happy to be sharing this day with you.
@@ -42,7 +41,7 @@ From the Louvain-La-Neuve train station to the Chateau might is a 35 minute walk
 If you're taking a taxi, the Ottignies station might be easier to get a taxi.
 
 ## Buses
-There are some [buses](www.letec.be/en) in the area, but not very frequent.
+There are some [buses](https://www.letec.be/en) in the area, but not very frequent.
 
 #### Taxi companies
 [Taxi Broeck](https://taxi-ottignies-lln.be/) - [+32471438499](tel:+32471438499)
