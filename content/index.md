@@ -6,7 +6,9 @@ title: Eilish and Louis wedding
 We're incredibly happy to be sharing this day with you.
 
 ## When
-Saturday the 8th of May 2027
+
+Saturday the **8th of May 2027**
+
 ### Program of the day
 To be revealed closer to time 
 
