@@ -1,3 +1,16 @@
 @use "./variables.scss" as *;
 
+// Make iframes responsive to prevent horizontal scrolling on mobile
+iframe {
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
+// Justify text in long paragraphs
+p, article {
+  text-align: justify;
+}
+
 // put your custom CSS here!
