@@ -63,7 +63,7 @@ Louvain-la-Neuve is a student town, expect loud students who have drunk a bit to
 * [Walibi](https://www.walibi.be/en) amusement park 
 * [Waterloo battlefield](https://waterloo1815.be/en)
 * [Brussels](https://visit.brussels/en) is a short train ride away
-![Brussels Grand Place at night](pasted-image-20261024210854.png)
+![[pasted-image-20261024210854.png|300]]
 * [Namur](https://www.namurtourisme.be/en/) is a medieval city with a lovely citadel
 * [Villers Abbey](https://www.villers.be/en) to visit an old ruin, or skip ahead and go straight to the beer
 ### Further afield
@@ -76,7 +76,6 @@ A small selection of what's in the area, many more are available.
 * [Café des Halles](https://maps.app.goo.gl/C3DoWbfeGrPtowKB7) bar and restaurant (worth a booking for groups)
 * [La Branche de Figuier](https://maps.app.goo.gl/UvaWg5JzzTwdBSXW7) Palestinian restaurant
 * [Chez Jean-Lou](https://maps.app.goo.gl/h8RV1x2tnZYk11Rw6) - typical Friterie serving burgers and chips in the middle of a car park
-
 ### Bars
 * [Le Beer Bar](https://maps.app.goo.gl/MXLGw661zGM9yhQh7): 16 kegs of the best Belgian beers
 * [Fox](https://maps.app.goo.gl/j2Cwobv6oVXQeh2i9)
