@@ -1,7 +1,7 @@
 ---
 title: Eilish and Louis wedding
 ---
-## TODO photo Eilish Louis Api
+<img src="Eilish-Louis.jpg" width="250" style="border-radius: 8px;" />
 
 We're incredibly happy to be sharing this day with you.
 
@@ -44,8 +44,8 @@ If you're taking a taxi, the Ottignies station might be easier to get a taxi.
 There are some [buses](https://www.letec.be/en) in the area, but not very frequent.
 
 #### Taxi companies
-[Taxi Broeck](https://taxi-ottignies-lln.be/) - [+32471438499](tel:+32471438499)
-Uber
+* [Taxi Broeck](https://taxi-ottignies-lln.be/) - [+32471438499](tel:+32471438499)
+* Uber operates in the area
 
 ## Hotels
 * [Martin's](https://www.martinshotels.com/en/page/martins-louvain-la-neuve/martins-louvain-la-neuve-innovation-lifestyle-hotel.11057.html) and [Piano 2](https://www.piano2.be/)  come recommended from friends
