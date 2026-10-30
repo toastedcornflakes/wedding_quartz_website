@@ -37,11 +37,11 @@ Belgium
 ## Getting to the venue
 
 ### Trains
-[Trains](https://www.belgiantrain.be/en) are cheaper and more reliable than in the UK. No need to book in advance, but you do need to buy a ticket before getting on board. The train stop running quite early, around 10-11 PM.
+[Trains](https://www.belgiantrain.be/en) are cheaper and more reliable than in the UK. No need to book in advance, but you do need to buy a ticket before getting on board. The trains stop running quite early, around 10-11 PM.
 
-Allow 5+ minutes for transfers in Ottignies due to upgrade works.
+Allow 15 minutes for transfers in Ottignies due to upgrade works.
 
-From the Louvain-La-Neuve train station to the Chateau might is a 35 minute walk.
+From the Louvain-La-Neuve train station to the Chateau is a 35 minute walk.
 If you're taking a taxi, the Ottignies station might be easier to get a taxi.
 
 ## Buses
