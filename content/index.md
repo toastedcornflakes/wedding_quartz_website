@@ -31,13 +31,15 @@ Belgium
 ## Getting to Belgium
 * [Eurostar](https://www.eurostar.com/) from London to Brussels. Book well in advance for a good deal.
 * Nearby airports:
-	* Brussels Airport (Zaventem)
-	* Brussels South Charleroi Airport (not in Brussels, harder to get to the location)
+	* [Brussels Airport (Zaventem)](https://www.brusselsairport.be/en/)
+	* [Brussels South Charleroi Airport](https://www.brussels-south-charleroi-airport.com/en/) (not in Brussels, harder to get to the location)
 
 ## Getting to the venue
 
 ### Trains
-[Trains](https://www.belgiantrain.be/en) are cheaper and more reliable than in the UK. No need to book in advance. They stop running quite early, around 10-11 PM.
+[Trains](https://www.belgiantrain.be/en) are cheaper and more reliable than in the UK. No need to book in advance, but you do need to buy a ticket before getting on board. The train stop running quite early, around 10-11 PM.
+
+Allow 5+ minutes for transfers in Ottignies due to upgrade works.
 
 From the Louvain-La-Neuve train station to the Chateau might is a 35 minute walk.
 If you're taking a taxi, the Ottignies station might be easier to get a taxi.
@@ -46,34 +48,37 @@ If you're taking a taxi, the Ottignies station might be easier to get a taxi.
 There are some [buses](https://www.letec.be/en) in the area, but not very frequent.
 
 #### Taxi companies
-* [Taxi Broeck](https://taxi-ottignies-lln.be/) - [+32471438499](tel:+32471438499)
-* Uber operates in the area
+* [Taxi Broeck](https://taxi-ottignies-lln.be/) - [+32 471 43 84 99](tel:+32471438499)
+* [Uber](https://www.uber.com/global/en/) operates in the area
 
 ## Hotels
 * [Martin's](https://www.martinshotels.com/en/page/martins-louvain-la-neuve/martins-louvain-la-neuve-innovation-lifestyle-hotel.11057.html) and [Piano 2](https://www.piano2.be/)  come recommended from friends
-* [ibis Styles](https://all.accor.com/hotel/2200/index.fr.shtml) is also close by
+* [ibis Styles](https://all.accor.com/hotel/2200/index.fr.shtml) 
+* [Gite Mozaik](https://www.gite-mozaik.be/en/)
 
 ## Local attractions
+
+Louvain-la-Neuve is a student town, expect loud students who have drunk a bit too much.
+
 * [Walibi](https://www.walibi.be/en) amusement park 
 * [Waterloo battlefield](https://waterloo1815.be/en)
-* Brussels is a short train ride away
-![[pasted-image-20261024210854.png]]
-* [Namur](https://www.namurtourisme.be/en/) is a medieval city with an lovely citadel
+* [Brussels](https://visit.brussels/en) is a short train ride away
+![Brussels Grand Place at night](pasted-image-20261024210854.png)
+* [Namur](https://www.namurtourisme.be/en/) is a medieval city with a lovely citadel
 * [Villers Abbey](https://www.villers.be/en) to visit an old ruin, or skip ahead and go straight to the beer
 ### Further afield
 * [Leuven](https://www.visitleuven.be/en), [Brugge](https://www.visitbruges.be/en) and [Gent](https://visit.gent.be/en) are a train ride away and well worth the trip
 
 ## Food
+A small selection of what's in the area, many more are available.
 ### Restaurants
-Eilish is an unconditional fan of [Le Brasse Temps](https://maps.app.goo.gl/VrMQs5SiKaSQ6GUZ6) brewery.
-
-Others worth a visit in the area:
-* [Café des Halles](https://maps.app.goo.gl/C3DoWbfeGrPtowKB7) bar and restaurant
+* [Le Brasse Temps](https://maps.app.goo.gl/VrMQs5SiKaSQ6GUZ6) brewery is an Eilish favourite
+* [Café des Halles](https://maps.app.goo.gl/C3DoWbfeGrPtowKB7) bar and restaurant (worth a booking for groups)
 * [La Branche de Figuier](https://maps.app.goo.gl/UvaWg5JzzTwdBSXW7) Palestinian restaurant
 * [Chez Jean-Lou](https://maps.app.goo.gl/h8RV1x2tnZYk11Rw6) - typical Friterie serving burgers and chips in the middle of a car park
 
 ### Bars
-[Le Beer Bar](https://maps.app.goo.gl/MXLGw661zGM9yhQh7): 16 kegs of the best Belgian beers. 
-
+* [Le Beer Bar](https://maps.app.goo.gl/MXLGw661zGM9yhQh7): 16 kegs of the best Belgian beers
+* [Fox](https://maps.app.goo.gl/j2Cwobv6oVXQeh2i9)
 ### Snacks
-[Gofidor waffles](https://maps.app.goo.gl/85Qoye1uXHAPuRoeA) is a classic
+[Gofidor waffles](https://maps.app.goo.gl/85Qoye1uXHAPuRoeA) is a classic.
